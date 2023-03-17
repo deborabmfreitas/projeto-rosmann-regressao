@@ -90,7 +90,7 @@ Loja | Previsão de receita | Pior cenário | Melhor cenário
 1093  | 285228.92 | 284254.73| 286203.12	
 1048   | 259014.26 | 258266.21 | 259762.32
 
-**Performance total**
+**Previsão total de receita da empresa**
 
 Cenários| Valores
 -------|----------
