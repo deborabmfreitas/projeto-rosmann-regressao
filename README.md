@@ -1,6 +1,11 @@
 <h1 align="center">Previsão de vendas da Rossmann </h1>
 
-![image](https://user-images.githubusercontent.com/109559298/221976852-2d8d2538-846e-413c-a335-fb2d31cab8eb.png)
+<div align="center">
+
+<img src="img/rossmann.jpg" width="500" alt="img">
+
+</div>
+
 
 
 A [Rossmann](https://www.rossmann.de/de/) é uma rede de farmácias da europa com mais de 3.000 unidades físicas distribuídas em 7 países da Europa. As lojas vendem mais de 21.000 produtos e conta com mais de  56.000 funcionários.
