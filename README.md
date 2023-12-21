@@ -13,8 +13,6 @@ A [Rossmann](https://www.rossmann.de/de/) é uma rede de farmácias da europa co
 
 O objetivo do projeto é simular um problema de negócio a ser solucionado por um Cientista de Dados. Os dados da Rossmann foram retirados do [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/overview) e incluem, principalmente, registros de vendas da empresa. 
 
-Foram seguidas as recomendações da [Comunidade DS](https://comunidadeds.com/) para a realização do projeto.
-
 # 1. Problema de negócio
 
 A rede de farmácias Rossmann precisa iniciar um processo de reformas para atender melhor os consumidores. Para isso, foi solicitada uma previsão de receita da empresa correspondente às próximas 6 semanas, para que o CFO direcione o valor que será investido em cada loja. Sendo assim, do ponto de vista de uma cientista de dados, o problema envolve séries temporais e pode ser resolvido com algoritmos de regressão, auxiliando o CFO na tomada de decisão.
